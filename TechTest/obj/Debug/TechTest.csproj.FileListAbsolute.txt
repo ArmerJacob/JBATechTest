@@ -1,0 +1,9 @@
+C:\Users\jake\source\repos\TechTest\TechTest\bin\Debug\TechTest.exe.config
+C:\Users\jake\source\repos\TechTest\TechTest\bin\Debug\TechTest.exe
+C:\Users\jake\source\repos\TechTest\TechTest\bin\Debug\TechTest.pdb
+C:\Users\jake\source\repos\TechTest\TechTest\obj\Debug\TechTest.csprojAssemblyReference.cache
+C:\Users\jake\source\repos\TechTest\TechTest\obj\Debug\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\jake\source\repos\TechTest\TechTest\obj\Debug\TechTest.exe
+C:\Users\jake\source\repos\TechTest\TechTest\obj\Debug\TechTest.pdb
+C:\Users\jake\source\repos\TechTest\TechTest\bin\Debug\Database.mdf
+C:\Users\jake\source\repos\TechTest\TechTest\bin\Debug\Database_log.ldf
